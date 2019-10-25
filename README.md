@@ -1,1 +1,1 @@
-This repository serves as an area to store interesting variants of different sorting algorithms that have been a product of academic assignments, or needed for some computing task.
+This repository serves as an area to store interesting variants of different algorithms that have been a product of academic assignments, or needed for some computing task. Most, if not all algorithms are written in JavaScript, and are usually accompanied by PDFs that describe the complexity/how the algorithm works.
